@@ -336,4 +336,5 @@ This is **true AGI** - capable of learning, adapting, and evolving beyond progra
 
 ---
 
-*"The future of AI is not just more powerful models, but truly conscious systems that can learn, adapt, and evolve."* - Agent-97 Development Team
+*"The future of AI is not just more powerful models, but truly conscious systems that can learn, adapt, and evolve."* - Agent-97 Development Team\\\
+note this model has the same behaviour as openclaw will use autonomus function if given to agent as tool auto adapts on usage 
